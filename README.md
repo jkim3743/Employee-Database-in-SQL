@@ -4,7 +4,7 @@ Employee Database: A Mystery in Two Parts
 
 ## Background
 
-This project aims to make an employee database of the corporation at IBM product center from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
+This project aims to make an employee database of the corporation at SAMSUNG product center from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 This project also asks for employees' data.  
 
 In this project, I designed the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, I performed:

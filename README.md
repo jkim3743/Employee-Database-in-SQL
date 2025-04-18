@@ -1,4 +1,4 @@
-Employee Database
+## Employee Database
 
 ![sql](https://user-images.githubusercontent.com/11654374/129387150-793070ae-2df6-4e65-8672-f8dd66d2aed7.png)
 
